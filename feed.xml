@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator><link href="https://chat-pierre.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://chat-pierre.github.io/" rel="alternate" type="text/html" /><updated>2021-01-06T00:42:28+08:00</updated><id>https://chat-pierre.github.io/feed.xml</id><title type="html">Chat-Pierre’s Lecture Notes</title><subtitle>Écrits scientifiques et philosophiques de un chat.</subtitle><entry><title type="html">Reading Progress</title><link href="https://chat-pierre.github.io/2021/01/03/reading-plan.html" rel="alternate" type="text/html" title="Reading Progress" /><published>2021-01-03T22:00:00+08:00</published><updated>2021-01-03T22:00:00+08:00</updated><id>https://chat-pierre.github.io/2021/01/03/reading-plan</id><content type="html" xml:base="https://chat-pierre.github.io/2021/01/03/reading-plan.html">&lt;p&gt;Reading in progress and finished:&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator><link href="https://chat-pierre.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://chat-pierre.github.io/" rel="alternate" type="text/html" /><updated>2021-01-06T00:47:45+08:00</updated><id>https://chat-pierre.github.io/feed.xml</id><title type="html">Chat-Pierre’s Lecture Notes</title><subtitle>Écrits scientifiques et philosophiques de un chat.</subtitle><entry><title type="html">Reading Progress</title><link href="https://chat-pierre.github.io/2021/01/03/reading-plan.html" rel="alternate" type="text/html" title="Reading Progress" /><published>2021-01-03T22:00:00+08:00</published><updated>2021-01-03T22:00:00+08:00</updated><id>https://chat-pierre.github.io/2021/01/03/reading-plan</id><content type="html" xml:base="https://chat-pierre.github.io/2021/01/03/reading-plan.html">&lt;p&gt;Reading in progress and finished:&lt;/p&gt;
 
 &lt;table&gt;
   &lt;thead&gt;
@@ -34,7 +34,5 @@
     &lt;/tr&gt;
   &lt;/tbody&gt;
 &lt;/table&gt;
-
-\[\int_0^{+\infty}\frac{1}{\sin x}\]
 
 &lt;p&gt;Last updated: Jan 5, 2021&lt;/p&gt;</content><author><name></name></author><summary type="html">Reading in progress and finished:</summary></entry></feed>
