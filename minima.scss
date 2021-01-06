@@ -40,6 +40,10 @@ $on-laptop:        800px !default;
   }
 }
 
+table {
+  overflow: scroll;
+}
+
 @mixin relative-font-size($ratio) {
   font-size: $base-font-size * $ratio;
 }
