@@ -1,4 +1,6 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator><link href="https://chat-pierre.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://chat-pierre.github.io/" rel="alternate" type="text/html" /><updated>2021-01-07T02:11:15+08:00</updated><id>https://chat-pierre.github.io/feed.xml</id><title type="html">Chat-Pierre’s Lecture Notes</title><subtitle>Écrits scientifiques et philosophiques d'un chat.</subtitle><entry><title type="html">Reading Progress</title><link href="https://chat-pierre.github.io/2021/01/03/reading-plan.html" rel="alternate" type="text/html" title="Reading Progress" /><published>2021-01-03T22:00:00+08:00</published><updated>2021-01-03T22:00:00+08:00</updated><id>https://chat-pierre.github.io/2021/01/03/reading-plan</id><content type="html" xml:base="https://chat-pierre.github.io/2021/01/03/reading-plan.html">&lt;p&gt;Reading in progress and finished:&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator><link href="https://chat-pierre.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://chat-pierre.github.io/" rel="alternate" type="text/html" /><updated>2021-01-07T03:22:41+08:00</updated><id>https://chat-pierre.github.io/feed.xml</id><title type="html">Chat-Pierre’s Lecture Notes</title><subtitle>Écrits scientifiques et philosophiques d'un chat.</subtitle><entry><title type="html">Reading Progress</title><link href="https://chat-pierre.github.io/2021/01/03/reading-plan.html" rel="alternate" type="text/html" title="Reading Progress" /><published>2021-01-03T22:00:00+08:00</published><updated>2021-01-03T22:00:00+08:00</updated><id>https://chat-pierre.github.io/2021/01/03/reading-plan</id><content type="html" xml:base="https://chat-pierre.github.io/2021/01/03/reading-plan.html">&lt;p&gt;Reading in progress and finished:&lt;/p&gt;
+
+&lt;p&gt;2020&lt;/p&gt;
 
 &lt;table&gt;
   &lt;thead&gt;
@@ -6,7 +8,7 @@
       &lt;th style=&quot;text-align: center&quot;&gt;Title&lt;/th&gt;
       &lt;th style=&quot;text-align: center&quot;&gt;Author&lt;/th&gt;
       &lt;th style=&quot;text-align: center&quot;&gt;ISBN&lt;/th&gt;
-      &lt;th style=&quot;text-align: center&quot;&gt;Progress&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;Status&lt;/th&gt;
       &lt;th style=&quot;text-align: center&quot;&gt;Rating&lt;/th&gt;
     &lt;/tr&gt;
   &lt;/thead&gt;
@@ -26,16 +28,32 @@
       &lt;td style=&quot;text-align: center&quot;&gt;4/5&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;Invisible Cities&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;Italo Calvino&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;978-0-15-645380-0&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;Finished&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;4.5/5&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
       &lt;td style=&quot;text-align: center&quot;&gt;On Bullshit&lt;/td&gt;
       &lt;td style=&quot;text-align: center&quot;&gt;Harry G. FrankFurt&lt;/td&gt;
       &lt;td style=&quot;text-align: center&quot;&gt;978-0-691-12294-6&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Finished&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;4.5/5&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;2021&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;Title&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;Author&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;ISBN&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;Status&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;Rating&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Invisible Cities&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Italo Calvino&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;978-0-15-645380-0&lt;/td&gt;
       &lt;td style=&quot;text-align: center&quot;&gt;Finished&lt;/td&gt;
       &lt;td style=&quot;text-align: center&quot;&gt;4.5/5&lt;/td&gt;
     &lt;/tr&gt;
@@ -47,9 +65,16 @@
       &lt;td style=&quot;text-align: center&quot;&gt;4/5&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;The Little Prince&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;de Saint-Exupéry&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;-&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;61%&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;3/5&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
       &lt;td style=&quot;text-align: center&quot;&gt;魔女の旅々 I&lt;/td&gt;
       &lt;td style=&quot;text-align: center&quot;&gt;白石定規&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;-&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;978-4-7973-8435-2&lt;/td&gt;
       &lt;td style=&quot;text-align: center&quot;&gt;35%&lt;/td&gt;
       &lt;td style=&quot;text-align: center&quot;&gt;4/5&lt;/td&gt;
     &lt;/tr&gt;
@@ -60,7 +85,34 @@
       &lt;td style=&quot;text-align: center&quot;&gt;12/715&lt;/td&gt;
       &lt;td style=&quot;text-align: center&quot;&gt;4.5/5&lt;/td&gt;
     &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;The Big Questions&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Robert Solomon&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;978-1-133-61064-9&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;15/382&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;4/5&lt;/td&gt;
+    &lt;/tr&gt;
   &lt;/tbody&gt;
 &lt;/table&gt;
 
-&lt;p&gt;Last updated: 2:10 AM, Jan 7, 2021&lt;/p&gt;</content><author><name></name></author><summary type="html">Reading in progress and finished:</summary></entry></feed>
+&lt;!--
+
+Planned:
+
+|                  Title                   |       Author        |       ISBN        | Status  | Rating |
+| :--------------------------------------: | :-----------------: | :---------------: | :-----: | :----: |
+|               Linguistics                |   Adrian Akmajian   | 978-0-262-51730-8 | Planned | 4.5/5  |
+|        Logic in Computer Science         |    Nichael Huth     | 978-0-521-54310-1 | Planned | 4.5/5  |
+| Introduction to Calculus and Analysis I  |   Richard Courant   | 978-3-540-65058-4 | Planned | 4.5/5  |
+| A Friendly Introduction to Number Theory | Joseph H. Silverman | 978-0-321-81619-1 | Planned |  4/5   |
+|   Lineear Algebra and Its Applications   |   Gilbert Strang    | 978-0-03-010567-8 | Planned |  4/5   |
+|     An Introduction to Formal Logic      |     Peter Smith     | 979-8-675-80394-1 | Planned | 3.5/5  |
+|  Sapiens: A Brief History of Humankind   |  Yuval Noah Harari  | 978-0-7710-3850-1 | Planned | 3.5/5  |
+|             Naïve Set Theory             |   Paul R. Halmos    | 978-1-4757-1645-0 | Planned |  4/5   |
+|      Elementary Probability Theory       |    Kai-Lai Chung    | 978-0-387-21548-8 | Planned |  4/5   |
+|      Elementary Euclidean Geometry       |    C. G. Gibson     | 978-0-511-18491-8 | Planned | 3.5/5  |
+|     The Feynman Lectures on Physics      | Richard P. Feynman  |         -         | Planned |  4/5   |
+
+--&gt;
+
+&lt;p&gt;Last updated: 2:36 AM  Jan 7, 2021 (UTC+8:00)&lt;/p&gt;</content><author><name></name></author><summary type="html">Reading in progress and finished:</summary></entry></feed>
