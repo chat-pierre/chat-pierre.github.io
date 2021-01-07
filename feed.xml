@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator><link href="https://chat-pierre.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://chat-pierre.github.io/" rel="alternate" type="text/html" /><updated>2021-01-07T16:18:37+08:00</updated><id>https://chat-pierre.github.io/feed.xml</id><title type="html">Chat-Pierre’s Lecture Notes</title><subtitle>Écrits scientifiques et philosophiques d'un chat.</subtitle><entry><title type="html">Some Games of Morality</title><link href="https://chat-pierre.github.io/2021/01/07/some-games-of-morality.html" rel="alternate" type="text/html" title="Some Games of Morality" /><published>2021-01-07T16:03:00+08:00</published><updated>2021-01-07T16:03:00+08:00</updated><id>https://chat-pierre.github.io/2021/01/07/some-games-of-morality</id><content type="html" xml:base="https://chat-pierre.github.io/2021/01/07/some-games-of-morality.html">&lt;h2 id=&quot;shubiks-dollar-auction-game-1970&quot;&gt;Shubik’s Dollar Auction Game (~1970)&lt;/h2&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator><link href="https://chat-pierre.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://chat-pierre.github.io/" rel="alternate" type="text/html" /><updated>2021-01-07T16:21:13+08:00</updated><id>https://chat-pierre.github.io/feed.xml</id><title type="html">Chat-Pierre’s Lecture Notes</title><subtitle>Écrits scientifiques et philosophiques d'un chat.</subtitle><entry><title type="html">Some Games of Morality</title><link href="https://chat-pierre.github.io/2021/01/07/some-games-of-morality.html" rel="alternate" type="text/html" title="Some Games of Morality" /><published>2021-01-07T16:03:00+08:00</published><updated>2021-01-07T16:03:00+08:00</updated><id>https://chat-pierre.github.io/2021/01/07/some-games-of-morality</id><content type="html" xml:base="https://chat-pierre.github.io/2021/01/07/some-games-of-morality.html">&lt;h2 id=&quot;shubiks-dollar-auction-game&quot;&gt;Shubik’s Dollar Auction Game&lt;/h2&gt;
 
 &lt;p&gt;&lt;strong&gt;Rule:&lt;/strong&gt; Bid for &lt;em&gt;one dollar legal tender&lt;/em&gt;. However, both the highest bidder and the second-highest bidder must pay.&lt;/p&gt;
 
@@ -42,13 +42,13 @@
 
 &lt;h2 id=&quot;douglas-r-hofstaders-lottery&quot;&gt;Douglas R. Hofstader’s lottery&lt;/h2&gt;
 
-&lt;p&gt;&lt;strong&gt;Rule:&lt;/strong&gt; The possible prize is inverse to the number of people entering the competition: if there are $n$ people entering the competition, then the prize is \(\frac{1,000,000}{n}\) dollars, which is given to a participant chosen randomly.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Rule:&lt;/strong&gt; The possible prize is inverse to the number of people entering the competition: if there are \(n\) people entering the competition, then the prize is \(\frac{1,000,000}{n}\) dollars, which is given to a participant chosen randomly.&lt;/p&gt;
 
 &lt;p&gt;The definition of &lt;em&gt;participation&lt;/em&gt; here has changed. The game take into consider the fact whether we choose to participate the lottery as a rule. Hence &lt;em&gt;when we see the advertisement we are already in the game&lt;/em&gt;.&lt;/p&gt;
 
 &lt;p&gt;Here we face a dilemma: if we choose to participate the lottery, we lessen the prize money; if no one participates, nobody wins the prize. This can weakly reflect a common interest in those advertised, that is, the collective benifit of them.&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Proposed solution:&lt;/strong&gt; Distribute the lotting process. Estimate $n$ persons are going to participate the lottery, and determining whether yourself will participate by the outcome of a experiment of a probability \(\frac{1}{n}\). Thus it is likely there is only one person “representing” the audience to attend the lottery. This approach have the following merits:&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Proposed solution:&lt;/strong&gt; Distribute the lotting process. Estimate \(n\) persons are going to participate the lottery, and determining whether yourself will participate by the outcome of a experiment of a probability \(\frac{1}{n}\). Thus it is likely there is only one person “representing” the audience to attend the lottery. This approach have the following merits:&lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;Each player has the equal chance of entering the lottery.&lt;/li&gt;
@@ -60,7 +60,7 @@
 
 &lt;p&gt;Consensus is important.&lt;/p&gt;
 
-&lt;h2 id=&quot;the-prisoners-dilemma-named-by-albert-w-tucker&quot;&gt;The Prisoner’s Dilemma (Named by Albert W. Tucker)&lt;/h2&gt;
+&lt;h2 id=&quot;the-prisoners-dilemma&quot;&gt;The Prisoner’s Dilemma&lt;/h2&gt;
 
 &lt;p&gt;Two prisoners have committed a murder and a speeding. Police are certain about the speeding, while have no convincing evidence about the murder. A prosecutor made a bargain to both of them:&lt;/p&gt;
 
@@ -100,7 +100,7 @@
   &lt;/li&gt;
 &lt;/ol&gt;
 
-&lt;p&gt;While sometimes the golden rule fails (e.g. when two person get seperated in a crowd it is better for one to stay and let the other find him/her).&lt;/p&gt;</content><author><name></name></author><summary type="html">Shubik’s Dollar Auction Game (~1970)</summary></entry><entry><title type="html">Reading Progress</title><link href="https://chat-pierre.github.io/2021/01/03/reading-plan.html" rel="alternate" type="text/html" title="Reading Progress" /><published>2021-01-03T22:00:00+08:00</published><updated>2021-01-03T22:00:00+08:00</updated><id>https://chat-pierre.github.io/2021/01/03/reading-plan</id><content type="html" xml:base="https://chat-pierre.github.io/2021/01/03/reading-plan.html">&lt;p&gt;Reading in progress and finished:&lt;/p&gt;
+&lt;p&gt;While sometimes the golden rule fails (e.g. when two person get seperated in a crowd it is better for one to stay and let the other find him/her).&lt;/p&gt;</content><author><name></name></author><summary type="html">Shubik’s Dollar Auction Game</summary></entry><entry><title type="html">Reading Progress</title><link href="https://chat-pierre.github.io/2021/01/03/reading-plan.html" rel="alternate" type="text/html" title="Reading Progress" /><published>2021-01-03T22:00:00+08:00</published><updated>2021-01-03T22:00:00+08:00</updated><id>https://chat-pierre.github.io/2021/01/03/reading-plan</id><content type="html" xml:base="https://chat-pierre.github.io/2021/01/03/reading-plan.html">&lt;p&gt;Reading in progress and finished:&lt;/p&gt;
 
 &lt;p&gt;2020&lt;/p&gt;
 
