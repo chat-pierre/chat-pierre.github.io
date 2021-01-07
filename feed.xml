@@ -1,4 +1,110 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator><link href="https://chat-pierre.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://chat-pierre.github.io/" rel="alternate" type="text/html" /><updated>2021-01-07T03:22:41+08:00</updated><id>https://chat-pierre.github.io/feed.xml</id><title type="html">Chat-Pierre’s Lecture Notes</title><subtitle>Écrits scientifiques et philosophiques d'un chat.</subtitle><entry><title type="html">Reading Progress</title><link href="https://chat-pierre.github.io/2021/01/03/reading-plan.html" rel="alternate" type="text/html" title="Reading Progress" /><published>2021-01-03T22:00:00+08:00</published><updated>2021-01-03T22:00:00+08:00</updated><id>https://chat-pierre.github.io/2021/01/03/reading-plan</id><content type="html" xml:base="https://chat-pierre.github.io/2021/01/03/reading-plan.html">&lt;p&gt;Reading in progress and finished:&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator><link href="https://chat-pierre.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://chat-pierre.github.io/" rel="alternate" type="text/html" /><updated>2021-01-07T16:12:52+08:00</updated><id>https://chat-pierre.github.io/feed.xml</id><title type="html">Chat-Pierre’s Lecture Notes</title><subtitle>Écrits scientifiques et philosophiques d'un chat.</subtitle><entry><title type="html">Some Games of Morality</title><link href="https://chat-pierre.github.io/2021/01/07/some-games-of-morality.html" rel="alternate" type="text/html" title="Some Games of Morality" /><published>2021-01-07T16:03:00+08:00</published><updated>2021-01-07T16:03:00+08:00</updated><id>https://chat-pierre.github.io/2021/01/07/some-games-of-morality</id><content type="html" xml:base="https://chat-pierre.github.io/2021/01/07/some-games-of-morality.html">&lt;h2 id=&quot;shubiks-dollar-auction-game-1970&quot;&gt;Shubik’s Dollar Auction Game (~1970)&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;Rule:&lt;/strong&gt; Bid for &lt;em&gt;one dollar legal tender&lt;/em&gt;. However, both the highest bidder and the second-highest bidder must pay.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Outcome:&lt;/strong&gt; Shubik claims that the average highest bid is $~3.40. When conducted in psychological laboratory, the outcomes are mostly the same.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Critical points:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;The auction happens.&lt;/strong&gt; Usually at the culminant point of a party, where someone set the rules and bid for one cent.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;When the bid passes 50 cents.&lt;/strong&gt; Now the auctioneer makes a profit, while it is still possible for the bidder to get a good deal.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;When someone offers 100 cents.&lt;/strong&gt; Usually none other than who offer the highest two bids jump in. Here he who offers 99 cents will lose 99 cents if he does not continue, while only one cent if he offers 101 cents. Thus he usually continues. Once he makes the move, the 100-cent one will be facing the same situation, thus the bidding will continue. Both are now irrational and counting the other to come to his sense and drop out. Usually at least they double their investments ($2.00).&lt;/p&gt;
+
+    &lt;blockquote&gt;
+      &lt;p&gt;&lt;strong&gt;Macbeth Effect&lt;/strong&gt;: “I am in blood / stepped in so far that, should I wade no more / Returning were as tedious as go o’ver.”&lt;/p&gt;
+    &lt;/blockquote&gt;
+
+    &lt;ul&gt;
+      &lt;li&gt;Women seem to perform better in &lt;em&gt;this specific&lt;/em&gt; experiment.&lt;/li&gt;
+      &lt;li&gt;The effect does not ebb even with interruptions for reflection.&lt;/li&gt;
+      &lt;li&gt;Soberness gradually gives way to competitive feelings.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;strong&gt;In real life:&lt;/strong&gt; Temporal change of rhetorics of President Johnson during the Vietnam War (democracy, freedom -&amp;gt; national honor, stopping communism, avoiding the appearance of weakness). &lt;strong&gt;The best way to prevent loss is never indulge in the game, but at the risk of getting nothing forever.&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;strong&gt;In the wild:&lt;/strong&gt; Animals with strong offensive weapons, thoese are well protected and those live in strictly hierarchical societies are more inclined to resort to posing as if to fight rather than actually fighting, for the cost is too much and outcome depends more on luck than on preparation (controllable). The cost of time is afforded by both, but only one wins.&lt;/p&gt;
+
+&lt;p&gt;Note in the case of animals there is no auctioneer to prevent them from introducting a third way of resolving the trouble, e.g. split the territory in halves or tossing a coin. But such behaviors are prohibited by laws of nature, or evolution. Someone has to lose. Different from human beings (from developed countries), animals cannot afford loss from irrationality.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Spending less resource than the object’s worth is certain loss, spending the same time is likely to result in a stale, spending more time will worsen the worst-case scenario and be at net loss even the bidder wins.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;em&gt;How (mathematicians suggest) animals resolve this dilemma:&lt;/em&gt; Posing for a random time in some given interval acceptable to themselves. &lt;strong&gt;But loser still suffers.&lt;/strong&gt; In this way not all individuals loss too much during a fight, giving this species a selective advantages. Observation and analysis backed up this theory.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Animals are better than huaman on this matter.&lt;/strong&gt; It seems the price of us acquiring morality is at the loss of animal rationality.&lt;/p&gt;
+
+&lt;h2 id=&quot;douglas-r-hofstaders-lottery&quot;&gt;Douglas R. Hofstader’s lottery&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;Rule:&lt;/strong&gt; The possible prize is inverse to the number of people entering the competition: if there are $n$ people entering the competition, then the prize is \(\frac{1,000,000}{n}\) dollars, which is given to a participant chosen randomly.&lt;/p&gt;
+
+&lt;p&gt;The definition of &lt;em&gt;participation&lt;/em&gt; here has changed. The game take into consider the fact whether we choose to participate the lottery as a rule. Hence &lt;em&gt;when we see the advertisement we are already in the game&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;Here we face a dilemma: if we choose to participate the lottery, we lessen the prize money; if no one participates, nobody wins the prize. This can weakly reflect a common interest in those advertised, that is, the collective benifit of them.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Proposed solution:&lt;/strong&gt; Distribute the lotting process. Estimate $n$ persons are going to participate the lottery, and determining whether yourself will participate by the outcome of a experiment of a probability \(\frac{1}{n}\). Thus it is likely there is only one person “representing” the audience to attend the lottery. This approach have the following merits:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Each player has the equal chance of entering the lottery.&lt;/li&gt;
+  &lt;li&gt;Everyone plays by the same book.&lt;/li&gt;
+  &lt;li&gt;There is good chance that the jackpot is not diluted.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;By shifting the lottery process to the participant, the game again becomes a simple, fair lottery, if practical.&lt;/p&gt;
+
+&lt;p&gt;Consensus is important.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-prisoners-dilemma-named-by-albert-w-tucker&quot;&gt;The Prisoner’s Dilemma (Named by Albert W. Tucker)&lt;/h2&gt;
+
+&lt;p&gt;Two prisoners have committed a murder and a speeding. Police are certain about the speeding, while have no convincing evidence about the murder. A prosecutor made a bargain to both of them:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;If the one of them confessed, then he will be free from jail, but his accomplice will be jailed for 10 years.&lt;/li&gt;
+  &lt;li&gt;If both of them confessed, both will be jailed for 5 years.&lt;/li&gt;
+  &lt;li&gt;If neither of them confessed, both of them will be punished for the speeding, jailed for 1 year.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;seemingly-reasonable-solutions&quot;&gt;(Seemingly) Reasonable solutions&lt;/h4&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;Consider the two conditions:&lt;/p&gt;
+
+    &lt;ul&gt;
+      &lt;li&gt;If my accomplice confesses, then if I:
+        &lt;ul&gt;
+          &lt;li&gt;confess, I will be jailed for 5 yrs.&lt;/li&gt;
+          &lt;li&gt;do not confess, I will be jailed for 10 yrs.&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;If my accomplice does not confess, then if I:
+        &lt;ul&gt;
+          &lt;li&gt;confess, I will be free.&lt;/li&gt;
+          &lt;li&gt;do not confess, I will be jailed for 1 yr.&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+
+    &lt;p&gt;Thus in both cases I should confess.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;My accomplice and I are both rational. We are looking for the same outcome. Thus we shall make the same decision. Setting off from this assumption, it is clear that we should both choose not to confess.&lt;/p&gt;
+
+    &lt;p&gt;Both are valid, while it’s not possible to determine which is ‘more’ sensible. However, if everyone sticks to the golden rule, time will be better (everyone will think as in the second condition above).&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;While sometimes the golden rule fails (e.g. when two person get seperated in a crowd it is better for one to stay and let the other find him/her).&lt;/p&gt;</content><author><name></name></author><summary type="html">Shubik’s Dollar Auction Game (~1970)</summary></entry><entry><title type="html">Reading Progress</title><link href="https://chat-pierre.github.io/2021/01/03/reading-plan.html" rel="alternate" type="text/html" title="Reading Progress" /><published>2021-01-03T22:00:00+08:00</published><updated>2021-01-03T22:00:00+08:00</updated><id>https://chat-pierre.github.io/2021/01/03/reading-plan</id><content type="html" xml:base="https://chat-pierre.github.io/2021/01/03/reading-plan.html">&lt;p&gt;Reading in progress and finished:&lt;/p&gt;
 
 &lt;p&gt;2020&lt;/p&gt;
 
