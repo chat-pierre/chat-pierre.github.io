@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator><link href="https://chat-pierre.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://chat-pierre.github.io/" rel="alternate" type="text/html" /><updated>2021-01-08T09:45:22+08:00</updated><id>https://chat-pierre.github.io/feed.xml</id><title type="html">Chat-Pierre’s Lecture Notes</title><subtitle>Écrits scientifiques et philosophiques d'un chat.</subtitle><entry><title type="html">Some Games of Morality</title><link href="https://chat-pierre.github.io/2021/01/07/some-games-of-morality.html" rel="alternate" type="text/html" title="Some Games of Morality" /><published>2021-01-07T16:03:00+08:00</published><updated>2021-01-07T16:03:00+08:00</updated><id>https://chat-pierre.github.io/2021/01/07/some-games-of-morality</id><content type="html" xml:base="https://chat-pierre.github.io/2021/01/07/some-games-of-morality.html">&lt;h2 id=&quot;shubiks-dollar-auction-game&quot;&gt;Shubik’s Dollar Auction Game&lt;/h2&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator><link href="https://chat-pierre.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://chat-pierre.github.io/" rel="alternate" type="text/html" /><updated>2021-01-08T19:20:14+08:00</updated><id>https://chat-pierre.github.io/feed.xml</id><title type="html">Chat-Pierre’s Lecture Notes</title><subtitle>Écrits scientifiques et philosophiques d'un chat.</subtitle><entry><title type="html">Some Games of Morality</title><link href="https://chat-pierre.github.io/2021/01/07/some-games-of-morality.html" rel="alternate" type="text/html" title="Some Games of Morality" /><published>2021-01-07T16:03:00+08:00</published><updated>2021-01-07T16:03:00+08:00</updated><id>https://chat-pierre.github.io/2021/01/07/some-games-of-morality</id><content type="html" xml:base="https://chat-pierre.github.io/2021/01/07/some-games-of-morality.html">&lt;h2 id=&quot;shubiks-dollar-auction-game&quot;&gt;Shubik’s Dollar Auction Game&lt;/h2&gt;
 
 &lt;p&gt;&lt;strong&gt;Rule:&lt;/strong&gt; Bid for &lt;em&gt;one dollar legal tender&lt;/em&gt;. However, both the highest bidder and the second-highest bidder must pay.&lt;/p&gt;
 
@@ -97,9 +97,11 @@
   &lt;/li&gt;
 &lt;/ol&gt;
 
-&lt;p&gt;While sometimes the golden rule fails (e.g. when two person get seperated in a crowd it is better for one to stay and let the other find him/her).&lt;/p&gt;</content><author><name></name></author><summary type="html">Shubik’s Dollar Auction Game</summary></entry><entry><title type="html">Reading Progress</title><link href="https://chat-pierre.github.io/2021/01/03/reading-plan.html" rel="alternate" type="text/html" title="Reading Progress" /><published>2021-01-03T22:00:00+08:00</published><updated>2021-01-03T22:00:00+08:00</updated><id>https://chat-pierre.github.io/2021/01/03/reading-plan</id><content type="html" xml:base="https://chat-pierre.github.io/2021/01/03/reading-plan.html">&lt;p&gt;Reading in progress and finished:&lt;/p&gt;
+&lt;p&gt;While sometimes the golden rule fails (e.g. when two person get seperated in a crowd it is better for one to stay and let the other find him/her).&lt;/p&gt;</content><author><name></name></author><summary type="html">Shubik’s Dollar Auction Game</summary></entry><entry><title type="html">Reading Progress</title><link href="https://chat-pierre.github.io/2021/01/03/reading-plan.html" rel="alternate" type="text/html" title="Reading Progress" /><published>2021-01-03T22:00:00+08:00</published><updated>2021-01-03T22:00:00+08:00</updated><id>https://chat-pierre.github.io/2021/01/03/reading-plan</id><content type="html" xml:base="https://chat-pierre.github.io/2021/01/03/reading-plan.html">&lt;box style=&quot;float: right; white-space: nowrap; font-size: 20px; background-color: green; border-radius: 4px; background-clip: padding-box; color:white; padding: 4px 8px 4px 8px;&quot;&gt;Reading in progress and finished&lt;/box&gt;
 
-&lt;p&gt;2020&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;2020&quot;&gt;2020&lt;/h4&gt;
 
 &lt;table&gt;
   &lt;thead&gt;
@@ -136,7 +138,7 @@
   &lt;/tbody&gt;
 &lt;/table&gt;
 
-&lt;p&gt;2021&lt;/p&gt;
+&lt;h4 id=&quot;2021&quot;&gt;2021&lt;/h4&gt;
 
 &lt;table&gt;
   &lt;thead&gt;
@@ -228,4 +230,4 @@ Planned:
 
 --&gt;
 
-&lt;p&gt;Last updated: 9:45 AM  Jan 8, 2021 (UTC+8:00)&lt;/p&gt;</content><author><name></name></author><summary type="html">Reading in progress and finished:</summary></entry></feed>
+&lt;p&gt;Last updated: 9:45 AM  Jan 8, 2021 (UTC+8:00)&lt;/p&gt;</content><author><name></name></author><summary type="html">Reading in progress and finished</summary></entry></feed>
