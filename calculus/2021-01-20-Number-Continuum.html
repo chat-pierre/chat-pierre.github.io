@@ -1,0 +1,179 @@
+<!DOCTYPE html>
+<html lang="en"><head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1"><!-- Begin Jekyll SEO tag v2.7.1 -->
+<title>Number Continuum | Chat-Pierre’s Lecture Notes</title>
+<meta name="generator" content="Jekyll v4.2.0" />
+<meta property="og:title" content="Number Continuum" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="Incommeasurable Quantities" />
+<meta property="og:description" content="Incommeasurable Quantities" />
+<link rel="canonical" href="https://chat-pierre.github.io/calculus/2021-01-20-Number-Continuum.html" />
+<meta property="og:url" content="https://chat-pierre.github.io/calculus/2021-01-20-Number-Continuum.html" />
+<meta property="og:site_name" content="Chat-Pierre’s Lecture Notes" />
+<meta property="og:type" content="article" />
+<meta property="article:published_time" content="2021-01-20T18:50:00+08:00" />
+<meta name="twitter:card" content="summary" />
+<meta property="twitter:title" content="Number Continuum" />
+<script type="application/ld+json">
+{"headline":"Number Continuum","dateModified":"2021-01-20T18:50:00+08:00","datePublished":"2021-01-20T18:50:00+08:00","url":"https://chat-pierre.github.io/calculus/2021-01-20-Number-Continuum.html","mainEntityOfPage":{"@type":"WebPage","@id":"https://chat-pierre.github.io/calculus/2021-01-20-Number-Continuum.html"},"description":"Incommeasurable Quantities","@type":"BlogPosting","@context":"https://schema.org"}</script>
+<!-- End Jekyll SEO tag -->
+<link rel="stylesheet" href="/assets/main.css"><link type="application/atom+xml" rel="alternate" href="https://chat-pierre.github.io/feed.xml" title="Chat-Pierre's Lecture Notes" /><script type="text/javascript" id="MathJax-script" async
+  src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js">
+  </script>
+</head>
+<body><header class="site-header" role="banner">
+  <div class="wrapper"><a class="site-title" rel="author" href="/">Chat-Pierre&#39;s Lecture Notes</a><nav class="site-nav">
+        <input type="checkbox" id="nav-trigger" class="nav-trigger" />
+        <label for="nav-trigger">
+          <span class="menu-icon">
+            <svg viewBox="0 0 18 15" width="18px" height="15px">
+              <path d="M18,1.484c0,0.82-0.665,1.484-1.484,1.484H1.484C0.665,2.969,0,2.304,0,1.484l0,0C0,0.665,0.665,0,1.484,0 h15.032C17.335,0,18,0.665,18,1.484L18,1.484z M18,7.516C18,8.335,17.335,9,16.516,9H1.484C0.665,9,0,8.335,0,7.516l0,0 c0-0.82,0.665-1.484,1.484-1.484h15.032C17.335,6.031,18,6.696,18,7.516L18,7.516z M18,13.516C18,14.335,17.335,15,16.516,15H1.484 C0.665,15,0,14.335,0,13.516l0,0c0-0.82,0.665-1.483,1.484-1.483h15.032C17.335,12.031,18,12.695,18,13.516L18,13.516z"/>
+            </svg>
+          </span>
+        </label>
+
+        <div class="trigger"><a class="page-link" href="/about/">About</a><a class="page-link" href="/calculus-first-step.html">Calculus</a></div>
+      </nav></div>
+</header>
+<main class="page-content" aria-label="Content">
+      <div class="wrapper">
+        <article class="post h-entry" itemscope itemtype="http://schema.org/BlogPosting">
+
+  <header class="post-header">
+    <h1 class="post-title p-name" itemprop="name headline">Number Continuum</h1>
+    <p class="post-meta">
+      <time class="dt-published" datetime="2021-01-20T18:50:00+08:00" itemprop="datePublished">Jan 20, 2021
+      </time></p>
+  </header>
+
+  <div class="post-content e-content" itemprop="articleBody">
+    <h3 id="incommeasurable-quantities">Incommeasurable Quantities</h3>
+
+<p>In the early times of geometry the system of rational numbers has shown its weakness. As early as 5-4 century B.C., it has been shown by the Greeks that there is incommeasurable lengths of segments for a given unit. (Two numbers are <em>commeasurable</em> if the ratio of them is a rational number, since they can be both represented as a integral multiples of a common unit. )</p>
+
+<h3 id="nested-intervals">Nested Intervals</h3>
+
+<hr />
+
+<p><strong>Sequence of Nested Intervals:</strong> A sequence of closed intervals \(I_n=[a_n,b_n]\) on the real line, with each \(I_{n-1}\) contained in \(I_n\) and the lengths of the intervals tend to zero.</p>
+
+<p><strong>Postulate of Nested Intervals:</strong> If  \(I_1,I_2,I_3,\dots\) form a nest sequences of intervals with rational endpoints, there is a point \(x\) contained in all \(I_n\).</p>
+
+<p><strong>N.B.</strong></p>
+
+<ul>
+  <li>
+    <p><strong>Such point is unique.</strong> If there are two such points, the lengths of the intervals cannot be arbitrarily small.</p>
+  </li>
+  <li>
+    <p><strong>The intervals has to be closed.</strong> Consider the nested intervals \(I_n=[0,\frac{1}{n}]\). Obviously only \(0\) is in all \(I_n\). If end points are excluded, then there is no point contained in all such intervals.</p>
+  </li>
+</ul>
+
+<hr />
+
+<p><br /></p>
+
+<h3 id="neighbourhood">Neighbourhood</h3>
+
+<p>A <strong>neighbourhood</strong> of a real number \(x_0\) is an open interval containing it.</p>
+
+<hr />
+
+<p><strong>\(\varepsilon\)-neighbourhood:</strong> For any positive \(\varepsilon\), the \(\varepsilon\)-neighbourhood of \(x_0\) consists of the value \(x\) such that \(x_0-\varepsilon&lt;x&lt;x_0+\varepsilon\). (also \((x_0-\varepsilon,x_0+\varepsilon)\), \(\vert x-x_0\vert&lt;\varepsilon\))</p>
+
+<hr />
+
+<p><br /></p>
+
+<h3 id="inequalities">Inequalities</h3>
+
+<p>Some important expansions:</p>
+
+<ul>
+  <li><strong>difference of powers</strong></li>
+</ul>
+
+\[\begin{align}
+a^2-b^2 &amp;= (a-b)(a+b)\\ \Rightarrow
+a^n-b^n &amp;= (a-b)(a^{n-1}+a^{n-2}b+\cdots+b^{n-1})
+\end{align}\]
+
+<ul>
+  <li><strong>binomial expansion:</strong></li>
+</ul>
+
+\[(a+b)^n=\sum_{i=0}^{n}\begin{pmatrix}n\\k\end{pmatrix}a^{n-k}b^k\]
+
+<p>Where
+\(\begin{pmatrix}n\\k\end{pmatrix}= \frac{n!}{k!(n-k)!}\)
+Some important inequalities:</p>
+
+<ul>
+  <li><strong>triangle inequality</strong></li>
+</ul>
+
+\[\begin{align}
+\vert a+b\vert&amp;\leq\vert a\vert +\vert b\vert\\
+\vert \alpha-\beta\vert&amp;\leq\vert \alpha-\gamma\vert +\vert \gamma-\beta\vert\\
+\vert a_1+a_2+\cdots+a_n\vert&amp;\leq\vert a_1\vert+\vert a_2\vert+\cdots+\vert a_n\vert
+\end{align}\]
+
+<ul>
+  <li><strong>Cauchy-Schwarz inequality</strong></li>
+</ul>
+
+\[(a_1b_1+a_2b_2+\cdots+a_nb_n)^2\leq(a_1^2+a_2^2+\cdots+a_n^2)(b_1^2+b_2^2+\cdots+b_n^2)\]
+
+<hr />
+
+<p><strong>Proof of Cauchy-Schwarz inequality:</strong></p>
+
+<p>Let</p>
+
+\[\begin{align}
+A &amp;= a_1^2+a_2^2+\cdots+a_n^2,\\
+B &amp;= b_1^2+b_2^2+\cdots+b_n^2,\\
+C &amp;= a_1b_1+a_2b_2+\cdots+a_nb_n
+\end{align}\]
+
+<p>We know that \(Ax^2-2Cx+B=(a_1x+b_1)^2+(a_2x+b_2)^2+\cdots+(a_nx+b_n)^2\geq0\).</p>
+
+<p>Hence the discriminator \(4(C^2-AB)\geq0\).</p>
+
+<hr />
+
+
+  </div><a class="u-url" href="/calculus/2021-01-20-Number-Continuum.html" hidden></a>
+</article>
+
+      </div>
+    </main><footer class="site-footer h-card">
+  <data class="u-url" href="/"></data>
+
+  <div class="wrapper">
+
+    <h2 class="footer-heading">Chat-Pierre&#39;s Lecture Notes</h2>
+
+    <div class="footer-col-wrapper">
+      <div class="footer-col footer-col-1">
+        <ul class="contact-list">
+          <li class="p-name">Chat-Pierre&#39;s Lecture Notes</li><li><a class="u-email" href="mailto:jane-doe[@]ms.u-tokyo.ac.jp">jane-doe[@]ms.u-tokyo.ac.jp</a></li></ul>
+      </div>
+
+      <div class="footer-col footer-col-2"><ul class="social-media-list"><li><a href="https://github.com/chat-pierre"><svg class="svg-icon"><use xlink:href="/assets/minima-social-icons.svg#github"></use></svg> <span class="username">chat-pierre</span></a></li></ul>
+</div>
+
+      <div class="footer-col footer-col-3">
+        <p>Écrits scientifiques et philosophiques d&#39;un chat.</p>
+      </div>
+    </div>
+
+  </div>
+
+</footer>
+</body>
+
+</html>
